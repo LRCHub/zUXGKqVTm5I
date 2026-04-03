@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "天城越え",
+  "base_artist": "石川さゆり",
+  "createdAt": "2026-04-03T04:02:39.733263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "Junko Ishihara",
+      "has_synced": false,
+      "path": "select/01_天城越え_Junko_Ishihara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "石川さゆり",
+      "has_synced": true,
+      "path": "select/02_天城越え_石川さゆり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "Ishikawa, Sayuri",
+      "has_synced": true,
+      "path": "select/03_天城越え_Ishikawa,_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_天城越え_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "石川さゆり",
+      "has_synced": false,
+      "path": "select/05_天城越え_石川さゆり.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "石川さゆり",
+      "has_synced": true,
+      "path": "select/06_天城越え_石川さゆり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "Sayuri Ishikawa",
+      "has_synced": false,
+      "path": "select/07_天城越え_Sayuri_Ishikawa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天城越え",
+      "artist": "Sayuri Ishikawa (石川さゆり)",
+      "has_synced": true,
+      "path": "select/08_天城越え_Sayuri_Ishikawa_(石川さゆり).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天城越え",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_01_天城越え_石川_さゆり.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "天城越え",
+      "artist": "石川さゆり",
+      "has_synced": true,
+      "path": "select/localdb_01_天城越え_石川さゆり.lrc",
+      "repo_name": "cwL09UKDqdI"
+    }
+  ]
+}
